@@ -1,4 +1,4 @@
-# Digital Clock in assembly [Academic Project]
+# Digital Clock in assembly 
 
  - An elegant digital clock written in x86 assembly language
 
